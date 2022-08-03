@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ==== SImple GTFS Calendar  Example ======  
-This Example provides an example of mapping of a GTFS Calendar.txt file to NeTEx
+This example provides an example of mapping of a GTFS Calendar.txt file to NeTEx
 
 The data comes from the sample-feed.zip available at   http://code.google.com/transit/spec/transit_feed_specification.html
  
