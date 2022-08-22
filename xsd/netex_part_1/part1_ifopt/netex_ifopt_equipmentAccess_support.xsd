@@ -498,4 +498,5 @@ Rail transport, Roads and Road transport
 			<xsd:enumeration value="other"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-	<!-- ======================================================================= --></xsd:schema>
+	<!-- ======================================================================= -->
+</xsd:schema>
